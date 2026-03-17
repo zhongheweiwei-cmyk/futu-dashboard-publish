@@ -1,5 +1,16 @@
 [
   {
+    "cn_date": "2026-03-17",
+    "label": "day",
+    "path": "archive/2026-03-17-day.html",
+    "hits": 2,
+    "generated_cn": "2026-03-17 16:57:34",
+    "et_sessions": [
+      "20260316",
+      "20260317"
+    ]
+  },
+  {
     "session": "20260317",
     "label": "day",
     "path": "archive/20260317-day.html",
