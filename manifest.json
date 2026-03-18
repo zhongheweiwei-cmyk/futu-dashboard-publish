@@ -4,9 +4,20 @@
     "label": "night",
     "path": "archive/2026-03-18-night.html",
     "hits": 3,
-    "generated_cn": "2026-03-18 13:54:56",
+    "generated_cn": "2026-03-18 14:02:32",
     "et_sessions": [
       "20260317"
+    ]
+  },
+  {
+    "cn_date": "2026-03-18",
+    "label": "day",
+    "path": "archive/2026-03-18-day.html",
+    "hits": 13,
+    "generated_cn": "2026-03-18 16:05:03",
+    "et_sessions": [
+      "20260317",
+      "20260318"
     ]
   },
   {
