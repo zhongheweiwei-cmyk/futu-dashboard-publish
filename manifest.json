@@ -1,5 +1,15 @@
 [
   {
+    "cn_date": "2026-03-20",
+    "label": "night",
+    "path": "archive/2026-03-20-night.html",
+    "hits": 0,
+    "generated_cn": "2026-03-19 16:25:02",
+    "et_sessions": [
+      "20260319"
+    ]
+  },
+  {
     "cn_date": "2026-03-19",
     "label": "night",
     "path": "archive/2026-03-19-night.html",
