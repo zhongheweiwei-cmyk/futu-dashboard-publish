@@ -4,7 +4,7 @@
     "label": "night",
     "path": "archive/2026-03-20-night.html",
     "hits": 0,
-    "generated_cn": "2026-03-19 17:44:38",
+    "generated_cn": "2026-03-19 18:14:12",
     "et_sessions": [
       "20260319"
     ]
@@ -24,7 +24,7 @@
     "label": "day",
     "path": "archive/2026-03-19-day.html",
     "hits": 1,
-    "generated_cn": "2026-03-19 16:10:21",
+    "generated_cn": "2026-03-19 17:58:35",
     "et_sessions": [
       "20260318",
       "20260319"
@@ -55,25 +55,16 @@
     "cn_date": "2026-03-17",
     "label": "day",
     "path": "archive/2026-03-17-day.html",
-    "hits": 2,
-    "generated_cn": "2026-03-17 16:57:34",
-    "et_sessions": [
-      "20260316",
-      "20260317"
-    ]
-  },
-  {
-    "session": "20260317",
-    "label": "day",
-    "path": "archive/20260317-day.html",
     "hits": 0,
-    "generated_cn": "2026-03-17 16:05:02"
+    "generated_cn": "2026-03-17 16:05:02",
+    "et_sessions": []
   },
   {
-    "session": "20260316",
+    "cn_date": "2026-03-16",
     "label": "day",
-    "path": "archive/20260316-day.html",
+    "path": "archive/2026-03-16-day.html",
     "hits": 6,
-    "generated_cn": "2026-03-17 14:27:03"
+    "generated_cn": "2026-03-17 14:27:03",
+    "et_sessions": []
   }
 ]
