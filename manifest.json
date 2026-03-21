@@ -10,6 +10,17 @@
     ]
   },
   {
+    "cn_date": "2026-03-21",
+    "label": "day",
+    "path": "archive/2026-03-21-day.html",
+    "hits": 0,
+    "generated_cn": "2026-03-21 16:05:05",
+    "et_sessions": [
+      "20260320",
+      "20260321"
+    ]
+  },
+  {
     "cn_date": "2026-03-20",
     "label": "night",
     "path": "archive/2026-03-20-night.html",
